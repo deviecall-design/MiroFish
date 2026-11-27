@@ -58,3 +58,5 @@ backend/uploads/
 
 # Docker 数据
 data/
+# trader adapter state
+adapter_state/
